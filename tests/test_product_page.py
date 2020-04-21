@@ -2,7 +2,7 @@ from time import sleep
 
 import pytest
 
-from .pages.product_page import ProductPage
+from pages.product_page import ProductPage
 
 testdata = ["http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/?promo=offer0",
             "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/?promo=offer1",
