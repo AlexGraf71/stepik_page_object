@@ -18,7 +18,7 @@ def test_registration_form(browser):
 def test_login_url(browser):
     page = LoginPage(browser, link)
     page.open()
-    page.should_be_login_url()
+    page.should_be_login_link()
 
 
 def test_login_page(browser):
