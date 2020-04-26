@@ -1,6 +1,6 @@
-from pages.main_page import MainPage
-from pages.basket_page import BasketPage
-from pages.login_page import LoginPage
+from .pages.main_page import MainPage
+from .pages.basket_page import BasketPage
+from .pages.login_page import LoginPage
 
 mane_link = "http://selenium1py.pythonanywhere.com/"
 product_link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207"
