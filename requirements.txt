@@ -1,5 +1,5 @@
 pytest==5.4.1
-requests==2.23.0
+requests==2.31.0
 selene==2.0.0a22
 selenium==3.141.0
 webdriver-manager
